@@ -1,0 +1,39 @@
+
+h2{
+    color:mediumblue;
+}
+h1{
+    color:teal;
+}
+h3{
+    color:lightseagreen;
+}
+.aa{
+    color: blue;
+}
+.h2 {
+    color:midnightblue;
+}
+.ex{
+    color:indigo;
+}
+.ad{
+    color: darkviolet;
+}
+table, td {
+    border: solid 1px black;
+    background-color:lightslategrey;
+}
+body {
+    background-color: lightcyan;
+}
+.od{
+    color:purple;
+}
+.id{
+    color:mediumslateblue;
+}
+.ad{
+    color: steelblue;
+}
+
